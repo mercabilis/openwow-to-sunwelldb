@@ -3,8 +3,8 @@
 // @namespace openwow-to-sunwelldb
 // @description Fix the old openwow database links to sunwelldb
 // @version 1
-// @updateURL https://raw.githubusercontent.com/mercabilis/openwow-to-sunwelldb/master/openwow-to-sunwelldb.js
-// @downloadURL https://raw.githubusercontent.com/mercabilis/openwow-to-sunwelldb/master/openwow-to-sunwelldb.js
+// @updateURL https://raw.githubusercontent.com/mercabilis/openwow-to-sunwelldb/master/openwow-to-sunwelldb.user.js
+// @downloadURL https://raw.githubusercontent.com/mercabilis/openwow-to-sunwelldb/master/openwow-to-sunwelldb.user.js
 // @include *
 // @grant none
 // == / UserScript ==
